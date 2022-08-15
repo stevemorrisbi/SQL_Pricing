@@ -1,4 +1,4 @@
-# Discount strategy
+# Pricing Discount Strategy
 
 ### Developing a SQL query to calculate a discount percentage for different segmentation of customers.
 
